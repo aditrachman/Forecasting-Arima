@@ -1,3 +1,4 @@
+untuk Lib yang dipakai
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
